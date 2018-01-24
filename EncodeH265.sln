@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodeH265", "EncodeH265\EncodeH265.csproj", "{24858B0B-63DD-4765-8949-12C08704452A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodeVP9", "EncodeVP9\EncodeVP9.csproj", "{3DDBBFE1-CE91-4A50-8227-FCACD0682002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24858B0B-63DD-4765-8949-12C08704452A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24858B0B-63DD-4765-8949-12C08704452A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24858B0B-63DD-4765-8949-12C08704452A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24858B0B-63DD-4765-8949-12C08704452A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDBBFE1-CE91-4A50-8227-FCACD0682002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDBBFE1-CE91-4A50-8227-FCACD0682002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDBBFE1-CE91-4A50-8227-FCACD0682002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDBBFE1-CE91-4A50-8227-FCACD0682002}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F3E0663-C7C4-48C9-BD14-62C1A59FCBFD}
+	EndGlobalSection
+EndGlobal
